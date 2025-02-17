@@ -1,0 +1,45 @@
+2024-12-01 17:18:48,257 - INFO - Autosave script started.
+2024-12-01 17:18:48,257 - INFO - Starting trigger file monitor...
+2024-12-01 17:18:53,100 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 17:18:53,100 - INFO - Starting or resetting the debounce timer.
+2024-12-01 17:18:54,163 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 17:18:54,163 - INFO - Starting or resetting the debounce timer.
+2024-12-01 17:18:54,163 - INFO - Stopping previous debounce timer.
+2024-12-01 17:18:55,669 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 17:18:55,669 - INFO - Starting or resetting the debounce timer.
+2024-12-01 17:18:55,669 - INFO - Stopping previous debounce timer.
+2024-12-01 17:18:56,697 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 17:18:56,698 - INFO - Starting or resetting the debounce timer.
+2024-12-01 17:18:56,698 - INFO - Stopping previous debounce timer.
+2024-12-01 17:18:58,012 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 17:18:58,012 - INFO - Starting or resetting the debounce timer.
+2024-12-01 17:18:58,012 - INFO - Stopping previous debounce timer.
+2024-12-01 17:18:58,434 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 17:18:58,434 - INFO - Starting or resetting the debounce timer.
+2024-12-01 17:18:58,434 - INFO - Stopping previous debounce timer.
+2024-12-01 17:18:59,863 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 17:18:59,863 - INFO - Starting or resetting the debounce timer.
+2024-12-01 17:18:59,863 - INFO - Stopping previous debounce timer.
+2024-12-01 17:19:00,844 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 17:19:00,844 - INFO - Starting or resetting the debounce timer.
+2024-12-01 17:19:00,844 - INFO - Stopping previous debounce timer.
+2024-12-01 17:19:01,462 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 17:19:01,463 - INFO - Starting or resetting the debounce timer.
+2024-12-01 17:19:01,463 - INFO - Stopping previous debounce timer.
+2024-12-01 17:19:03,003 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 17:19:03,003 - INFO - Starting or resetting the debounce timer.
+2024-12-01 17:19:03,003 - INFO - Stopping previous debounce timer.
+2024-12-01 17:19:03,101 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 17:19:04,165 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 17:19:05,670 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 17:19:06,701 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 17:19:08,014 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 17:19:08,435 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 17:19:09,865 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 17:19:10,845 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 17:19:11,464 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 17:19:13,005 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 17:19:13,005 - INFO - Debounce timer elapsed. Performing save operation.
+2024-12-01 17:19:13,005 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 17:19:13,005 - INFO - Attempting to attach to an existing Excel instance...
+2024-12-01 17:20:00,201 - INFO - Termination signal received. Cleaning up and archiving current log file...

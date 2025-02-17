@@ -1,0 +1,27 @@
+2024-12-07 12:47:28,933 - INFO - Autosave script started.
+2024-12-07 12:47:28,933 - INFO - Starting trigger file monitor...
+2024-12-07 12:47:43,314 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-07 12:47:43,314 - INFO - Starting or resetting the debounce timer.
+2024-12-07 12:47:53,316 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-07 12:47:53,316 - INFO - Debounce timer elapsed. Performing save operation.
+2024-12-07 12:47:53,316 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-07 12:47:53,316 - INFO - Attempting to attach to an existing Excel instance...
+2024-12-07 12:47:53,329 - INFO - Lock file created: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-07 12:47:53,329 - INFO - Saving workbook: Guitar-lessons.xlsm
+2024-12-07 12:47:53,369 - INFO - Workbook saved successfully.
+2024-12-07 12:47:54,370 - INFO - Lock file removed: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-07 12:52:35,060 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-07 12:52:35,060 - INFO - Starting or resetting the debounce timer.
+2024-12-07 12:52:37,632 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-07 12:52:37,632 - INFO - Starting or resetting the debounce timer.
+2024-12-07 12:52:37,633 - INFO - Stopping previous debounce timer.
+2024-12-07 12:52:45,061 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-07 12:52:47,634 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-07 12:52:47,634 - INFO - Debounce timer elapsed. Performing save operation.
+2024-12-07 12:52:47,634 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-07 12:52:47,634 - INFO - Attempting to attach to an existing Excel instance...
+2024-12-07 12:52:47,639 - INFO - Lock file created: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-07 12:52:47,639 - INFO - Saving workbook: Guitar-lessons.xlsm
+2024-12-07 12:52:47,670 - INFO - Workbook saved successfully.
+2024-12-07 12:52:48,670 - INFO - Lock file removed: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-07 12:53:28,878 - INFO - Termination signal received. Cleaning up and archiving current log file...

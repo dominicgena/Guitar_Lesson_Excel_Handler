@@ -1,0 +1,40 @@
+2024-11-30 12:56:43,016 - INFO - Monitoring file: D:\Projects\Python\Excel-Handler-Master\autosave\autosave_trigger.txt
+2024-11-30 12:56:43,017 - INFO - In directory: D:\Projects\Python\Excel-Handler-Master\autosave
+2024-11-30 12:56:43,017 - INFO - Starting file monitor...
+2024-11-30 12:56:52,801 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:56:57,802 - INFO - Attempt 1: Starting save process...
+2024-11-30 12:56:57,803 - INFO - Attached to active Excel instance.
+2024-11-30 12:57:20,532 - INFO - Excel is ready. Proceeding with save operation...
+2024-11-30 12:57:20,585 - INFO - Lock file created.
+2024-11-30 12:57:20,626 - INFO - Workbook saved successfully!
+2024-11-30 12:57:20,626 - INFO - Lock file removed.
+2024-11-30 12:57:20,626 - INFO - Lock file removed.
+2024-11-30 12:57:20,627 - INFO - Attempt 2: Starting save process...
+2024-11-30 12:57:20,642 - INFO - Attached to active Excel instance.
+2024-11-30 12:57:20,645 - INFO - Excel is ready. Proceeding with save operation...
+2024-11-30 12:57:20,645 - INFO - Lock file created.
+2024-11-30 12:57:20,673 - INFO - Workbook saved successfully!
+2024-11-30 12:57:20,674 - INFO - Lock file removed.
+2024-11-30 12:57:20,674 - INFO - Lock file removed.
+2024-11-30 12:57:20,674 - INFO - Attempt 3: Starting save process...
+2024-11-30 12:57:20,675 - INFO - Attached to active Excel instance.
+2024-11-30 12:57:20,677 - INFO - Excel is ready. Proceeding with save operation...
+2024-11-30 12:57:20,678 - INFO - Lock file created.
+2024-11-30 12:57:20,705 - INFO - Workbook saved successfully!
+2024-11-30 12:57:20,705 - INFO - Lock file removed.
+2024-11-30 12:57:20,705 - INFO - Lock file removed.
+2024-11-30 12:57:20,705 - INFO - Attempt 4: Starting save process...
+2024-11-30 12:57:20,707 - INFO - Attached to active Excel instance.
+2024-11-30 12:57:20,708 - INFO - Excel is ready. Proceeding with save operation...
+2024-11-30 12:57:20,709 - INFO - Lock file created.
+2024-11-30 12:57:20,744 - INFO - Workbook saved successfully!
+2024-11-30 12:57:20,744 - INFO - Lock file removed.
+2024-11-30 12:57:20,744 - INFO - Lock file removed.
+2024-11-30 12:57:20,744 - INFO - Attempt 5: Starting save process...
+2024-11-30 12:57:20,746 - INFO - Attached to active Excel instance.
+2024-11-30 12:57:20,747 - INFO - Excel is ready. Proceeding with save operation...
+2024-11-30 12:57:20,748 - INFO - Lock file created.
+2024-11-30 12:57:20,780 - INFO - Workbook saved successfully!
+2024-11-30 12:57:20,781 - INFO - Lock file removed.
+2024-11-30 12:57:20,781 - INFO - Lock file removed.
+2024-11-30 12:57:24,209 - INFO - Stopping file monitor...

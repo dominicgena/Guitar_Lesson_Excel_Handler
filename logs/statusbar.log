@@ -1,0 +1,8 @@
+2024-12-01 16:27:47,511 - INFO - Monitoring D:\Projects\Python\Excel-Handler-Master\triggers\statusbar-state.txt for changes...
+2024-12-01 16:27:47,512 - INFO - Statusbar file is empty.
+2024-12-01 16:27:50,126 - INFO - Statusbar file state: 'not_ready = true'
+2024-12-01 16:27:52,537 - INFO - Statusbar file is empty.
+2024-12-01 16:28:01,785 - INFO - Statusbar file state: 'not_ready = true'
+2024-12-01 16:28:05,606 - INFO - Statusbar file is empty.
+2024-12-01 16:28:47,702 - INFO - Monitoring interrupted by user. Exiting...
+2024-12-01 16:28:47,703 - INFO - Log file archived: logs\past-logs\statusbar\Statusbar 12-01-24 -- 16-28-47.log

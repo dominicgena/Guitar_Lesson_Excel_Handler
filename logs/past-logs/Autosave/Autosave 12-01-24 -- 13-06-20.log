@@ -1,0 +1,25 @@
+2024-12-01 13:05:56,209 - INFO - Autosave script started.
+2024-12-01 13:05:56,209 - INFO - Attempting to attach to an existing Excel instance...
+2024-12-01 13:05:56,217 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 13:05:56,219 - INFO - Lock file created: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-01 13:05:56,219 - INFO - Saving workbook: Guitar-lessons.xlsm
+2024-12-01 13:05:56,248 - INFO - Workbook saved successfully.
+2024-12-01 13:05:56,248 - INFO - Lock file removed: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-01 13:06:01,249 - INFO - Excel is not ready. Statusbar trigger file is not empty.
+2024-12-01 13:06:01,249 - INFO - Waiting for Excel to become ready...
+2024-12-01 13:06:06,250 - INFO - Excel is not ready. Statusbar trigger file is not empty.
+2024-12-01 13:06:06,250 - INFO - Waiting for Excel to become ready...
+2024-12-01 13:06:11,251 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 13:06:11,251 - INFO - Lock file created: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-01 13:06:11,251 - INFO - Saving workbook: Guitar-lessons.xlsm
+2024-12-01 13:06:11,285 - INFO - Workbook saved successfully.
+2024-12-01 13:06:11,285 - INFO - Lock file removed: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-01 13:06:16,287 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 13:06:16,287 - INFO - Debounce timer active. Waiting...
+2024-12-01 13:06:18,288 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 13:06:18,288 - INFO - Debounce timer active. Waiting...
+2024-12-01 13:06:20,288 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 13:06:20,288 - INFO - Debounce timer active. Waiting...
+2024-12-01 13:06:20,516 - INFO - Termination signal received. Archiving current log file...
+2024-12-01 13:06:20,518 - INFO - Log file archived: logs\past-logs\Autosave\Autosave 12-01-24 -- 13-06-20.log
+2024-12-01 13:06:20,518 - INFO - Exiting save monitoring.

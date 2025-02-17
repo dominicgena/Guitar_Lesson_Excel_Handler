@@ -1,0 +1,35 @@
+2024-11-30 12:23:10,640 - INFO - Monitoring file: D:\Projects\Python\Excel-Handler-Master\autosave\autosave_trigger.txt
+2024-11-30 12:23:10,640 - INFO - In directory: D:\Projects\Python\Excel-Handler-Master\autosave
+2024-11-30 12:23:10,640 - INFO - Starting file monitor...
+2024-11-30 12:23:21,204 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:23:26,206 - INFO - Attempt 1: Lock file created. Starting save process...
+2024-11-30 12:23:26,207 - INFO - Attached to active Excel instance.
+2024-11-30 12:23:40,347 - INFO - Workbook saved successfully!
+2024-11-30 12:23:40,348 - INFO - Lock file removed.
+2024-11-30 12:26:01,018 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:26:01,018 - INFO - Previous timer canceled.
+2024-11-30 12:26:06,019 - INFO - Attempt 1: Lock file created. Starting save process...
+2024-11-30 12:26:06,020 - INFO - Attached to active Excel instance.
+2024-11-30 12:27:17,063 - INFO - Workbook saved successfully!
+2024-11-30 12:27:17,063 - INFO - Lock file removed.
+2024-11-30 12:27:25,772 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:27:25,772 - INFO - Previous timer canceled.
+2024-11-30 12:27:30,773 - INFO - Attempt 1: Lock file created. Starting save process...
+2024-11-30 12:27:30,773 - INFO - Attached to active Excel instance.
+2024-11-30 12:29:19,023 - INFO - Workbook saved successfully!
+2024-11-30 12:29:19,023 - INFO - Lock file removed.
+2024-11-30 12:29:29,248 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:29:29,248 - INFO - Previous timer canceled.
+2024-11-30 12:29:33,261 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:29:33,261 - INFO - Previous timer canceled.
+2024-11-30 12:29:38,263 - INFO - Attempt 1: Lock file created. Starting save process...
+2024-11-30 12:29:38,264 - INFO - Attached to active Excel instance.
+2024-11-30 12:29:38,332 - INFO - Workbook saved successfully!
+2024-11-30 12:29:38,332 - INFO - Lock file removed.
+2024-11-30 12:31:32,718 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:31:32,720 - INFO - Previous timer canceled.
+2024-11-30 12:31:37,720 - INFO - Attempt 1: Lock file created. Starting save process...
+2024-11-30 12:31:37,721 - INFO - Attached to active Excel instance.
+2024-11-30 12:31:37,756 - INFO - Workbook saved successfully!
+2024-11-30 12:31:37,757 - INFO - Lock file removed.
+2024-11-30 12:33:19,321 - INFO - Stopping file monitor...

@@ -1,0 +1,7 @@
+2024-12-07 12:54:14,936 - INFO - Listening for the Escape key...
+2024-12-07 12:54:14,936 - INFO - Program started.
+2024-12-07 12:54:28,458 - INFO - Escape key pressed.
+2024-12-07 12:54:28,480 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 12:54:37,829 - INFO - Escape key pressed.
+2024-12-07 12:54:37,831 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 12:55:02,316 - INFO - Program interrupted by user. Exiting.

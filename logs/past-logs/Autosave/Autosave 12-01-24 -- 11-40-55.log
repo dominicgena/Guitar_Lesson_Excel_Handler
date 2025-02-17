@@ -1,0 +1,43 @@
+2024-12-01 11:40:17,495 - INFO - Autosave script started.
+2024-12-01 11:40:17,495 - INFO - Attempting to attach to an existing Excel instance...
+2024-12-01 11:40:17,503 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:17,504 - INFO - Lock file created: D:\Projects\Python\Excel-Handler-Master\temp\save_trigger.lock
+2024-12-01 11:40:17,504 - INFO - Saving workbook: Guitar-lessons.xlsm
+2024-12-01 11:40:17,531 - INFO - Workbook saved successfully.
+2024-12-01 11:40:17,532 - INFO - Lock file removed: D:\Projects\Python\Excel-Handler-Master\temp\save_trigger.lock
+2024-12-01 11:40:22,532 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:22,532 - INFO - Debounce timer active. Waiting...
+2024-12-01 11:40:24,533 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:24,533 - INFO - Debounce timer active. Waiting...
+2024-12-01 11:40:26,534 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:26,534 - INFO - Debounce timer active. Waiting...
+2024-12-01 11:40:28,535 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:28,535 - INFO - Lock file created: D:\Projects\Python\Excel-Handler-Master\temp\save_trigger.lock
+2024-12-01 11:40:28,535 - INFO - Saving workbook: Guitar-lessons.xlsm
+2024-12-01 11:40:28,567 - INFO - Workbook saved successfully.
+2024-12-01 11:40:28,567 - INFO - Lock file removed: D:\Projects\Python\Excel-Handler-Master\temp\save_trigger.lock
+2024-12-01 11:40:33,568 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:33,568 - INFO - Debounce timer active. Waiting...
+2024-12-01 11:40:35,569 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:35,569 - INFO - Debounce timer active. Waiting...
+2024-12-01 11:40:37,570 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:37,570 - INFO - Debounce timer active. Waiting...
+2024-12-01 11:40:39,571 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:39,571 - INFO - Lock file created: D:\Projects\Python\Excel-Handler-Master\temp\save_trigger.lock
+2024-12-01 11:40:39,571 - INFO - Saving workbook: Guitar-lessons.xlsm
+2024-12-01 11:40:39,604 - INFO - Workbook saved successfully.
+2024-12-01 11:40:39,604 - INFO - Lock file removed: D:\Projects\Python\Excel-Handler-Master\temp\save_trigger.lock
+2024-12-01 11:40:44,606 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:44,606 - INFO - Debounce timer active. Waiting...
+2024-12-01 11:40:46,607 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:46,607 - INFO - Debounce timer active. Waiting...
+2024-12-01 11:40:48,608 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:48,608 - INFO - Debounce timer active. Waiting...
+2024-12-01 11:40:50,609 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 11:40:50,609 - INFO - Lock file created: D:\Projects\Python\Excel-Handler-Master\temp\save_trigger.lock
+2024-12-01 11:40:50,609 - INFO - Saving workbook: Guitar-lessons.xlsm
+2024-12-01 11:40:50,641 - INFO - Workbook saved successfully.
+2024-12-01 11:40:50,642 - INFO - Lock file removed: D:\Projects\Python\Excel-Handler-Master\temp\save_trigger.lock
+2024-12-01 11:40:55,399 - INFO - Termination signal received. Archiving current log file...
+2024-12-01 11:40:55,400 - INFO - Log file archived: logs\past-logs\Autosave\Autosave 12-01-24 -- 11-40-55.log
+2024-12-01 11:40:55,400 - INFO - Exiting save monitoring.

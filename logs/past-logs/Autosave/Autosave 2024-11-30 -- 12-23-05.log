@@ -1,0 +1,9 @@
+2024-11-30 12:14:56,281 - INFO - Monitoring file: D:\Projects\Python\Excel-Handler-Master\autosave\autosave_trigger.txt
+2024-11-30 12:14:56,281 - INFO - In directory: D:\Projects\Python\Excel-Handler-Master\autosave
+2024-11-30 12:14:56,281 - INFO - Starting file monitor...
+2024-11-30 12:15:12,706 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:15:17,708 - INFO - Attempt 1: Lock file created. Starting save process...
+2024-11-30 12:15:17,709 - INFO - Attached to active Excel instance.
+2024-11-30 12:18:09,750 - INFO - Workbook saved successfully!
+2024-11-30 12:18:09,750 - INFO - Lock file removed.
+2024-11-30 12:23:05,372 - INFO - Stopping file monitor...

@@ -1,0 +1,87 @@
+2024-12-01 13:40:46,748 - INFO - Autosave script started.
+2024-12-01 13:40:46,748 - INFO - Starting trigger file monitor...
+2024-12-01 13:40:50,213 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:40:50,214 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:40:51,593 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:40:51,593 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:40:51,593 - INFO - Debounce timer reset.
+2024-12-01 13:40:52,182 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:40:52,183 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:40:52,183 - INFO - Debounce timer reset.
+2024-12-01 13:40:53,254 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:40:53,254 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:40:53,254 - INFO - Debounce timer reset.
+2024-12-01 13:40:54,128 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:40:54,128 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:40:54,128 - INFO - Debounce timer reset.
+2024-12-01 13:40:55,239 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:40:55,239 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:40:55,239 - INFO - Debounce timer reset.
+2024-12-01 13:40:56,132 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:40:56,133 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:40:56,133 - INFO - Debounce timer reset.
+2024-12-01 13:40:57,597 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:40:57,598 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:40:57,598 - INFO - Debounce timer reset.
+2024-12-01 13:41:00,214 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:41:01,594 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:41:02,184 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:41:03,257 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:41:04,130 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:41:05,241 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:41:06,134 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:41:07,599 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 13:41:07,599 - INFO - Debounce timer elapsed. Performing save operation.
+2024-12-01 13:41:07,599 - INFO - Attempting to attach to an existing Excel instance...
+2024-12-01 13:41:07,607 - INFO - Lock file created: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-01 13:41:07,608 - INFO - Saving workbook: Guitar-lessons.xlsm
+2024-12-01 13:41:07,645 - INFO - Workbook saved successfully.
+2024-12-01 13:41:08,646 - INFO - Lock file removed: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-01 13:41:12,322 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:41:12,322 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:41:13,160 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:41:13,161 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:41:13,161 - INFO - Debounce timer reset.
+2024-12-01 13:41:14,187 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:41:14,187 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:41:14,187 - INFO - Debounce timer reset.
+2024-12-01 13:41:22,324 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:41:23,162 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:41:24,189 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 13:41:24,189 - INFO - Debounce timer elapsed. Performing save operation.
+2024-12-01 13:41:24,189 - INFO - Attempting to attach to an existing Excel instance...
+2024-12-01 13:41:32,238 - INFO - Lock file created: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-01 13:41:32,239 - INFO - Saving workbook: Guitar-lessons.xlsm
+2024-12-01 13:41:32,240 - ERROR - Error saving workbook: (-2146777998, 'OLE error 0x800ac472', None, None)
+2024-12-01 13:41:32,307 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:41:32,308 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:41:33,240 - INFO - Lock file removed: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-01 13:41:43,242 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 13:41:43,242 - INFO - Debounce timer elapsed. Performing save operation.
+2024-12-01 13:41:43,242 - INFO - Attempting to attach to an existing Excel instance...
+2024-12-01 13:41:43,248 - INFO - Lock file created: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-01 13:41:43,248 - INFO - Saving workbook: Guitar-lessons.xlsm
+2024-12-01 13:41:43,279 - INFO - Workbook saved successfully.
+2024-12-01 13:41:44,280 - INFO - Lock file removed: D:\Projects\Python\Excel-Handler-Master\temp\autosave.lock
+2024-12-01 13:42:16,944 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:42:16,944 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:42:17,320 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:42:17,321 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:42:17,321 - INFO - Debounce timer reset.
+2024-12-01 13:42:18,793 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:42:18,795 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:42:18,795 - INFO - Debounce timer reset.
+2024-12-01 13:42:19,378 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:42:19,378 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:42:19,378 - INFO - Debounce timer reset.
+2024-12-01 13:42:20,404 - INFO - Trigger file transitioned from empty to non-empty. Starting debounce timer.
+2024-12-01 13:42:20,404 - INFO - Starting or resetting the debounce timer.
+2024-12-01 13:42:20,404 - INFO - Debounce timer reset.
+2024-12-01 13:42:26,946 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:42:27,322 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:42:28,796 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:42:29,380 - INFO - Debounce timer elapsed but conditions not met.
+2024-12-01 13:42:30,406 - INFO - Excel is ready. Statusbar trigger file is empty.
+2024-12-01 13:42:30,406 - INFO - Debounce timer elapsed. Performing save operation.
+2024-12-01 13:42:30,406 - INFO - Attempting to attach to an existing Excel instance...
+2024-12-01 13:43:37,842 - INFO - Termination signal received. Archiving current log file...

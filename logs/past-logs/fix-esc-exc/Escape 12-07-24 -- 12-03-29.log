@@ -1,0 +1,58 @@
+2024-12-07 11:09:20,023 - INFO - Listening for the Escape key...
+2024-12-07 11:09:20,023 - INFO - Program started.
+2024-12-07 11:09:24,278 - INFO - Escape key pressed.
+2024-12-07 11:09:24,297 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:09:25,315 - INFO - Escape key pressed.
+2024-12-07 11:09:25,322 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:09:29,455 - INFO - Escape key pressed.
+2024-12-07 11:09:29,464 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:09:29,982 - INFO - Escape key pressed.
+2024-12-07 11:09:29,990 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:09:30,713 - INFO - Escape key pressed.
+2024-12-07 11:09:30,722 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:09:31,040 - INFO - Escape key pressed.
+2024-12-07 11:09:31,048 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:13:36,368 - INFO - Escape key pressed.
+2024-12-07 11:13:36,386 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:13:36,388 - ERROR - Error handling escape key: (-2146777998, 'OLE error 0x800ac472', None, None)
+2024-12-07 11:26:52,770 - INFO - Escape key pressed.
+2024-12-07 11:26:52,772 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:26:54,996 - INFO - Escape key pressed.
+2024-12-07 11:26:55,000 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:26:56,320 - INFO - Escape key pressed.
+2024-12-07 11:26:56,323 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:39:21,497 - INFO - Escape key pressed.
+2024-12-07 11:39:21,501 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:51:39,357 - INFO - Escape key pressed.
+2024-12-07 11:51:39,359 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:53:14,159 - INFO - Escape key pressed.
+2024-12-07 11:53:14,161 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:54:26,797 - INFO - Escape key pressed.
+2024-12-07 11:54:26,799 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:55:44,010 - INFO - Escape key pressed.
+2024-12-07 11:55:44,012 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:55:59,896 - INFO - Escape key pressed.
+2024-12-07 11:55:59,901 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:56:34,871 - INFO - Escape key pressed.
+2024-12-07 11:56:34,909 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:56:40,892 - INFO - Escape key pressed.
+2024-12-07 11:56:40,909 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 11:56:46,147 - INFO - Escape key pressed.
+2024-12-07 11:56:46,149 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 12:00:49,128 - INFO - Escape key pressed.
+2024-12-07 12:00:49,130 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 12:01:21,295 - INFO - Escape key pressed.
+2024-12-07 12:01:21,297 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 12:01:25,729 - INFO - Escape key pressed.
+2024-12-07 12:01:25,735 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 12:01:29,372 - INFO - Escape key pressed.
+2024-12-07 12:01:29,373 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 12:01:31,294 - INFO - Escape key pressed.
+2024-12-07 12:01:31,296 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 12:01:52,102 - INFO - Escape key pressed.
+2024-12-07 12:01:52,104 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 12:02:22,568 - INFO - Escape key pressed.
+2024-12-07 12:02:22,569 - INFO - Not in row 1. Moving up and back down.
+2024-12-07 12:03:23,416 - INFO - Escape key pressed.
+2024-12-07 12:03:23,419 - ERROR - Error handling escape key: (-2147418111, 'Call was rejected by callee.', None, None)
+2024-12-07 12:03:29,875 - INFO - Program interrupted by user. Exiting.

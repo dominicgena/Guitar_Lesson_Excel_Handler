@@ -1,0 +1,18 @@
+2024-12-01 16:23:52,455 - INFO - Monitoring D:\Projects\Python\Excel-Handler-Master\triggers\statusbar-state.txt for changes...
+2024-12-01 16:23:54,761 - INFO - Statusbar file modified. Current state: 'not_ready = true'.
+2024-12-01 16:24:00,141 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:24:02,613 - INFO - Statusbar file modified. Current state: 'not_ready = true'.
+2024-12-01 16:24:02,613 - INFO - Statusbar file modified. Current state: 'not_ready = true'.
+2024-12-01 16:24:09,459 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:24:09,461 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:24:10,506 - INFO - Statusbar file modified. Current state: 'not_ready = true'.
+2024-12-01 16:24:10,506 - INFO - Statusbar file modified. Current state: 'not_ready = true'.
+2024-12-01 16:24:29,609 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:24:29,610 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:24:29,620 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:24:29,624 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:24:29,627 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:24:29,631 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:24:29,635 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:24:31,950 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:24:33,690 - INFO - Monitoring interrupted by user. Exiting...

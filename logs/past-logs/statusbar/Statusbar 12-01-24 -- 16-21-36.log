@@ -1,0 +1,11 @@
+2024-12-01 16:19:10,713 - INFO - Monitoring statusbar-state.txt for changes...
+2024-12-01 16:19:22,350 - INFO - Statusbar file modified. Current state: 'trigger_save = true'.
+2024-12-01 16:19:22,350 - INFO - Statusbar file modified. Current state: 'trigger_save = true'.
+2024-12-01 16:19:23,038 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:19:42,588 - INFO - Statusbar file modified. Current state: 'trigger_save = true'.
+2024-12-01 16:19:42,589 - INFO - Statusbar file modified. Current state: 'trigger_save = true'.
+2024-12-01 16:19:44,744 - INFO - Statusbar file modified. Current state: 'trigger_save = true'.
+2024-12-01 16:19:44,745 - INFO - Statusbar file modified. Current state: 'trigger_save = true'.
+2024-12-01 16:19:44,765 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:19:45,010 - INFO - Statusbar file modified. Current state: ''.
+2024-12-01 16:21:36,822 - INFO - Monitoring interrupted by user. Exiting...

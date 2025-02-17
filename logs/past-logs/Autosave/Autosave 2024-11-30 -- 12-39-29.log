@@ -1,0 +1,24 @@
+2024-11-30 12:35:52,226 - INFO - Monitoring file: D:\Projects\Python\Excel-Handler-Master\autosave\autosave_trigger.txt
+2024-11-30 12:35:52,226 - INFO - In directory: D:\Projects\Python\Excel-Handler-Master\autosave
+2024-11-30 12:35:52,227 - INFO - Starting file monitor...
+2024-11-30 12:35:59,422 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:36:04,422 - INFO - Attempt 1: Lock file created. Starting save process...
+2024-11-30 12:36:04,423 - INFO - Attached to active Excel instance.
+2024-11-30 12:36:13,552 - ERROR - Attempt 1 failed with error: (-2146777998, 'OLE error 0x800ac472', None, None)
+2024-11-30 12:36:13,552 - INFO - Retrying in 5 seconds...
+2024-11-30 12:36:18,553 - INFO - Lock file removed.
+2024-11-30 12:36:18,553 - INFO - Attempt 2: Lock file created. Starting save process...
+2024-11-30 12:36:18,555 - INFO - Attached to active Excel instance.
+2024-11-30 12:36:18,588 - INFO - Workbook saved successfully!
+2024-11-30 12:36:18,589 - INFO - Lock file removed.
+2024-11-30 12:36:28,261 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:36:28,262 - INFO - Previous timer canceled.
+2024-11-30 12:36:33,262 - INFO - Attempt 1: Lock file created. Starting save process...
+2024-11-30 12:36:33,263 - INFO - Attached to active Excel instance.
+2024-11-30 12:37:06,087 - INFO - Workbook saved successfully!
+2024-11-30 12:37:06,087 - INFO - Lock file removed.
+2024-11-30 12:37:20,979 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:37:20,979 - INFO - Previous timer canceled.
+2024-11-30 12:37:25,979 - INFO - Attempt 1: Lock file created. Starting save process...
+2024-11-30 12:37:25,980 - INFO - Attached to active Excel instance.
+2024-11-30 12:39:29,051 - INFO - Stopping file monitor...

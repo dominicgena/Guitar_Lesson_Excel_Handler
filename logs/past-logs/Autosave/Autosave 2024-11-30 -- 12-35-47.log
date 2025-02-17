@@ -1,0 +1,11 @@
+2024-11-30 12:33:30,872 - INFO - Monitoring file: D:\Projects\Python\Excel-Handler-Master\autosave\autosave_trigger.txt
+2024-11-30 12:33:30,872 - INFO - In directory: D:\Projects\Python\Excel-Handler-Master\autosave
+2024-11-30 12:33:30,873 - INFO - Starting file monitor...
+2024-11-30 12:33:46,325 - INFO - Change detected: Triggering save after debounce.
+2024-11-30 12:33:51,326 - INFO - Attempt 1: Lock file created. Starting save process...
+2024-11-30 12:33:51,327 - INFO - Attached to active Excel instance.
+2024-11-30 12:35:28,977 - WARNING - Excel not ready (status bar: not 'Ready'). Retrying in 5 seconds... (Check 1/10)
+2024-11-30 12:35:33,978 - WARNING - Excel not ready (status bar: not 'Ready'). Retrying in 5 seconds... (Check 2/10)
+2024-11-30 12:35:38,978 - WARNING - Excel not ready (status bar: not 'Ready'). Retrying in 5 seconds... (Check 3/10)
+2024-11-30 12:35:43,979 - WARNING - Excel not ready (status bar: not 'Ready'). Retrying in 5 seconds... (Check 4/10)
+2024-11-30 12:35:47,291 - INFO - Stopping file monitor...

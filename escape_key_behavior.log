@@ -1,0 +1,113 @@
+2024-12-01 02:25:46,309 - INFO - Listening for the Escape key...
+2024-12-01 02:25:46,310 - INFO - Program started.
+2024-12-01 02:25:49,918 - INFO - Escape key pressed.
+2024-12-01 02:25:49,939 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 02:26:23,990 - INFO - Escape key pressed.
+2024-12-01 02:26:23,991 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 02:26:27,314 - INFO - Escape key pressed.
+2024-12-01 02:26:27,315 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 02:26:29,632 - INFO - Escape key pressed.
+2024-12-01 02:26:29,635 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 02:27:36,634 - INFO - Escape key pressed.
+2024-12-01 02:27:36,636 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 02:27:58,021 - INFO - Escape key pressed.
+2024-12-01 02:27:58,023 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 02:35:10,100 - INFO - Escape key pressed.
+2024-12-01 02:35:10,103 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 02:37:27,312 - INFO - Escape key pressed.
+2024-12-01 02:37:27,314 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 11:11:19,371 - INFO - Escape key pressed.
+2024-12-01 11:11:19,373 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 11:11:43,083 - INFO - Escape key pressed.
+2024-12-01 11:11:43,097 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 11:11:52,344 - INFO - Escape key pressed.
+2024-12-01 11:11:52,345 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 11:11:53,765 - INFO - Escape key pressed.
+2024-12-01 11:11:53,766 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:02:19,223 - INFO - Escape key pressed.
+2024-12-01 13:02:19,238 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:06:09,050 - INFO - Escape key pressed.
+2024-12-01 13:06:09,070 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:24:04,449 - INFO - Escape key pressed.
+2024-12-01 13:24:04,454 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:24:19,831 - INFO - Escape key pressed.
+2024-12-01 13:24:19,832 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:24:40,435 - INFO - Escape key pressed.
+2024-12-01 13:24:40,439 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:25:25,740 - INFO - Escape key pressed.
+2024-12-01 13:25:25,742 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:26:00,594 - INFO - Escape key pressed.
+2024-12-01 13:26:00,595 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:28:03,756 - INFO - Escape key pressed.
+2024-12-01 13:28:03,758 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:28:11,804 - INFO - Escape key pressed.
+2024-12-01 13:28:11,805 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:37:39,783 - INFO - Escape key pressed.
+2024-12-01 13:37:39,785 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:38:33,315 - INFO - Escape key pressed.
+2024-12-01 13:38:33,316 - ERROR - Error handling escape key: (-2147418111, 'Call was rejected by callee.', None, None)
+2024-12-01 13:41:05,277 - INFO - Escape key pressed.
+2024-12-01 13:41:05,282 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:42:54,922 - INFO - Escape key pressed.
+2024-12-01 13:42:54,923 - ERROR - Error handling escape key: (-2147418111, 'Call was rejected by callee.', None, None)
+2024-12-01 13:43:00,645 - INFO - Escape key pressed.
+2024-12-01 13:43:00,645 - ERROR - Error handling escape key: (-2147418111, 'Call was rejected by callee.', None, None)
+2024-12-01 13:44:09,018 - INFO - Escape key pressed.
+2024-12-01 13:44:09,022 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:46:13,179 - INFO - Escape key pressed.
+2024-12-01 13:46:13,182 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:46:56,350 - INFO - Escape key pressed.
+2024-12-01 13:46:56,352 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:25,382 - INFO - Escape key pressed.
+2024-12-01 13:47:25,384 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:28,304 - INFO - Escape key pressed.
+2024-12-01 13:47:28,314 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:30,430 - INFO - Escape key pressed.
+2024-12-01 13:47:30,433 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:31,946 - INFO - Escape key pressed.
+2024-12-01 13:47:31,951 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:42,508 - INFO - Escape key pressed.
+2024-12-01 13:47:42,510 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:47,139 - INFO - Escape key pressed.
+2024-12-01 13:47:47,141 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:49,861 - INFO - Escape key pressed.
+2024-12-01 13:47:49,877 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:52,297 - INFO - Escape key pressed.
+2024-12-01 13:47:52,323 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:54,748 - INFO - Escape key pressed.
+2024-12-01 13:47:54,766 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:56,482 - INFO - Escape key pressed.
+2024-12-01 13:47:56,483 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:57,797 - INFO - Escape key pressed.
+2024-12-01 13:47:57,800 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:47:59,513 - INFO - Escape key pressed.
+2024-12-01 13:47:59,515 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:48:00,930 - INFO - Escape key pressed.
+2024-12-01 13:48:00,943 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:48:02,358 - INFO - Escape key pressed.
+2024-12-01 13:48:02,359 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:57:18,289 - INFO - Escape key pressed.
+2024-12-01 13:57:18,315 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 13:57:46,951 - INFO - Escape key pressed.
+2024-12-01 13:57:46,952 - ERROR - Error handling escape key: 'NoneType' object has no attribute 'Application'
+2024-12-01 13:59:04,263 - INFO - Escape key pressed.
+2024-12-01 13:59:04,283 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 14:00:17,910 - INFO - Escape key pressed.
+2024-12-01 14:00:17,911 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 14:16:07,389 - INFO - Escape key pressed.
+2024-12-01 14:16:07,398 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 14:17:33,776 - INFO - Escape key pressed.
+2024-12-01 14:17:33,794 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 14:17:35,415 - INFO - Escape key pressed.
+2024-12-01 14:17:35,426 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 14:17:37,360 - INFO - Escape key pressed.
+2024-12-01 14:17:37,362 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 14:17:38,377 - INFO - Escape key pressed.
+2024-12-01 14:17:38,393 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 14:17:40,211 - INFO - Escape key pressed.
+2024-12-01 14:17:40,213 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 14:17:44,743 - INFO - Escape key pressed.
+2024-12-01 14:17:44,770 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 14:18:03,869 - INFO - Escape key pressed.
+2024-12-01 14:18:03,871 - INFO - Not in row 1. Moving up and back down.
+2024-12-01 14:44:53,861 - INFO - Program interrupted by user. Exiting.
